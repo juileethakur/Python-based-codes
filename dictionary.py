@@ -1,3 +1,5 @@
+#This is a code to generate a dictionary application using Python
+
 from tkinter import *
 from PyDictionary import PyDictionary
 
